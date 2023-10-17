@@ -15,6 +15,6 @@ Code de Verification (Incorrect)
 ![Capture d'écran 2023-10-17 174534](https://github.com/safae12-1/Session2/assets/124156186/a294565e-8e54-4b0e-a5c6-191f97b628b5)
 
 
-Nouveau motdepasse
-![Capture d'écran 2023-10-17 174409](https://github.com/safae12-1/Session2/assets/124156186/c74b36f7-ea88-45f6-ad98-df3abb460df7)
+Nouveau motdepasse(incorrect)
+![Capture d'écran 2023-10-17 175457](https://github.com/safae12-1/Session2/assets/124156186/7e29109a-9c18-47ba-a3f8-b033cd833389)
 
