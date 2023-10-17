@@ -11,6 +11,10 @@ Renitialisation du motdepasse
 Email
 ![Capture d'écran 2023-10-17 174148](https://github.com/safae12-1/Session2/assets/124156186/d13e5922-6dcb-4aff-9808-6c0d91f62603)
 
+Code de Verification (Incorrect)
+![Capture d'écran 2023-10-17 174534](https://github.com/safae12-1/Session2/assets/124156186/a294565e-8e54-4b0e-a5c6-191f97b628b5)
+
+
 Nouveau motdepasse
 ![Capture d'écran 2023-10-17 174409](https://github.com/safae12-1/Session2/assets/124156186/c74b36f7-ea88-45f6-ad98-df3abb460df7)
 
