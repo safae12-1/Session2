@@ -8,4 +8,9 @@ PAGE_INSCRIPTION
 Renitialisation du motdepasse
 ![Capture d'écran 2023-10-17 172908](https://github.com/safae12-1/Session2/assets/124156186/7fb3e42c-8647-4094-a83e-34d7248aaccb)
 
+Email
+![Capture d'écran 2023-10-17 174148](https://github.com/safae12-1/Session2/assets/124156186/d13e5922-6dcb-4aff-9808-6c0d91f62603)
+
+Nouveau motdepasse
+![Capture d'écran 2023-10-17 174409](https://github.com/safae12-1/Session2/assets/124156186/c74b36f7-ea88-45f6-ad98-df3abb460df7)
 
