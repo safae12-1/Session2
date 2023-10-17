@@ -14,7 +14,14 @@ Email
 Code de Verification (Incorrect)
 ![Capture d'écran 2023-10-17 174534](https://github.com/safae12-1/Session2/assets/124156186/a294565e-8e54-4b0e-a5c6-191f97b628b5)
 
-
 Nouveau motdepasse(incorrect)
 ![Capture d'écran 2023-10-17 175457](https://github.com/safae12-1/Session2/assets/124156186/7e29109a-9c18-47ba-a3f8-b033cd833389)
 
+PAGE_LOGIN(incorrect)
+![Capture d'écran 2023-10-17 175830](https://github.com/safae12-1/Session2/assets/124156186/bf0bda0f-2d80-4b7a-9015-e0a18c35a44d)
+
+PAGE_LOGIN(correct)
+![login correct](https://github.com/safae12-1/Session2/assets/124156186/43e1c912-db0e-4584-b722-6db62a4503d6)
+
+Welcome
+![welcome](https://github.com/safae12-1/Session2/assets/124156186/a773c040-cd22-41f3-9298-1c65510d7bf7)
